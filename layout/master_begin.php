@@ -24,10 +24,8 @@
 <body>
 
 <div class="container-fluid">
-	<div class="row" style="background-color: #6e7483;">
 		<div class="col-md-4">
-			<img src="../assets/logo.png" class="mt-1" width="170px">
-		</div>
+			<img src="../assets/logo.png" class="mt-1" width="130px">
 	</div>
 
 	<div class="row display-table-row">
